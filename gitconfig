@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = pierre-lou.roussel@ieseg.fr
+	name = Pierre-Lou Roussel
